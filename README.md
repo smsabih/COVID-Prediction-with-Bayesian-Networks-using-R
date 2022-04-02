@@ -1,2 +1,1 @@
-# COVID Prediction using Bayesian Networks
- Predictive analysis and Modeling using Bayesian Networks - COVID-19 prediction based on symptoms.
+This COVID-19 Symptoms Checker dataset is from the Kaggle Repository and is based on the guidelines given by the World Health Organization and the Ministry of Health and Family Welfare, India. The dataset helps identify whether any person has coronavirus based on pre-defined standard symptoms.
